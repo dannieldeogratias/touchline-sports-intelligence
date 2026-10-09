@@ -1,0 +1,6 @@
+--extra-index-url https://download.pytorch.org/whl/cu126
+torch==2.14.1+cu126
+torchvision==0.29.1+cu126
+ultralytics==8.4.174
+lap==0.5.13
+imageio-ffmpeg==0.6.0
